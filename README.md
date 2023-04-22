@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varunvekaria&label=Profile%20views&color=0e75b6&style=flat" alt="varunvekaria" /> </p>
 
 - 💬 Ask me about **reactJS**
+- ⚡ Fun fact **I can sing.**
 
 - 📫 How to reach me **varunvekaria@gmail.com**
 
