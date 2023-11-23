@@ -24,3 +24,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=varunvekaria&show_icons=true&locale=en" alt="varunvekaria" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=varunvekaria&" alt="varunvekaria" /></p>
+
+[![An image of @varunvekaria's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/varunvekaria)](https://holopin.io/@varunvekaria)
