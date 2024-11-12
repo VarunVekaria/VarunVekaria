@@ -6,7 +6,7 @@
 - 💬 Ask me about **MERN**
 - ⚡ Fun fact **I can sing.**
 
-- 📫 How to reach me **varunvekaria@gmail.com**
+- 📫 How to reach me **varun.vekaria04@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
